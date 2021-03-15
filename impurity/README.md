@@ -2,7 +2,7 @@
 
 This is a two-part exercise to practice two techniques for containing function impurity.
 
-## Instructions (Part 1)
+## Instructions (Part 1) - Wrapper
 
 In this part of the exercise, you will contain the function impurity of `sortStudentsByName(..)` using a wrapper function.
 
@@ -16,7 +16,7 @@ In this part of the exercise, you will contain the function impurity of `sortStu
 
 4. The `studentsTest1` and `studentsTest3` tests at the bottom of the exercise should all print `true`.
 
-## Instructions (Part 2)
+## Instructions (Part 2) - Adapter
 
 In this part of the exercise, you will contain the function impurity of `sortStudentsByID(..)` using an adapter function.
 
